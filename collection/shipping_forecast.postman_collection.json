@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "22991660-ed56-4ece-ad63-8c6207d915fb",
+		"name": "shipping_forecast",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1878453"
+	},
+	"item": [
+		{
+			"name": "get_all_results",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
